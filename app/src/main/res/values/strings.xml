@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Neursoft</string>
+    <string name="gcm_defaultSenderId">420915548854</string>
 </resources>
